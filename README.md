@@ -1,0 +1,1 @@
+Exercício do livro de Algoritmos do José Manzano e Jaya Oliveira Edição 29ª
