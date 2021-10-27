@@ -1,0 +1,16 @@
+C:\Users\Pedro Arnaldo\Documents\C#\Algorithms\Capitulo 1\4-B\bin\Debug\net5.0\4-B.exe
+C:\Users\Pedro Arnaldo\Documents\C#\Algorithms\Capitulo 1\4-B\bin\Debug\net5.0\4-B.deps.json
+C:\Users\Pedro Arnaldo\Documents\C#\Algorithms\Capitulo 1\4-B\bin\Debug\net5.0\4-B.runtimeconfig.json
+C:\Users\Pedro Arnaldo\Documents\C#\Algorithms\Capitulo 1\4-B\bin\Debug\net5.0\4-B.runtimeconfig.dev.json
+C:\Users\Pedro Arnaldo\Documents\C#\Algorithms\Capitulo 1\4-B\bin\Debug\net5.0\4-B.dll
+C:\Users\Pedro Arnaldo\Documents\C#\Algorithms\Capitulo 1\4-B\bin\Debug\net5.0\ref\4-B.dll
+C:\Users\Pedro Arnaldo\Documents\C#\Algorithms\Capitulo 1\4-B\bin\Debug\net5.0\4-B.pdb
+C:\Users\Pedro Arnaldo\Documents\C#\Algorithms\Capitulo 1\4-B\obj\Debug\net5.0\4-B.csproj.AssemblyReference.cache
+C:\Users\Pedro Arnaldo\Documents\C#\Algorithms\Capitulo 1\4-B\obj\Debug\net5.0\4-B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Arnaldo\Documents\C#\Algorithms\Capitulo 1\4-B\obj\Debug\net5.0\4-B.AssemblyInfoInputs.cache
+C:\Users\Pedro Arnaldo\Documents\C#\Algorithms\Capitulo 1\4-B\obj\Debug\net5.0\4-B.AssemblyInfo.cs
+C:\Users\Pedro Arnaldo\Documents\C#\Algorithms\Capitulo 1\4-B\obj\Debug\net5.0\4-B.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Arnaldo\Documents\C#\Algorithms\Capitulo 1\4-B\obj\Debug\net5.0\4-B.dll
+C:\Users\Pedro Arnaldo\Documents\C#\Algorithms\Capitulo 1\4-B\obj\Debug\net5.0\ref\4-B.dll
+C:\Users\Pedro Arnaldo\Documents\C#\Algorithms\Capitulo 1\4-B\obj\Debug\net5.0\4-B.pdb
+C:\Users\Pedro Arnaldo\Documents\C#\Algorithms\Capitulo 1\4-B\obj\Debug\net5.0\4-B.genruntimeconfig.cache
