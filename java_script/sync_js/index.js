@@ -95,3 +95,26 @@ const getAddressAsync = util.promisify(getAddress);
 
 // console.log("phone: ", phone);
 // console.log("address", address);
+
+main();
+
+async function main() {
+  try {
+    console.time("medida-promise");
+    const user = await getUser();
+    //const phone = await getPhone(user.id);
+    //const address = await getAddressAsync(user.id);
+    const result = await Promise.all([
+      getPhone(user.id),
+      getAddressAsync(user.id),
+    ]);
+    const phone = result[0];
+    const address = result[1];
+    console.log("user: ", user);
+    console.log("phone: ", phone);
+    console.log("address: ", address);
+    console.timeEnd("medida-promise");
+  } catch (error) {
+    console.error("Deu ruim", error);
+  }
+}
